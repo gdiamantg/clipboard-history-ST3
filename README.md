@@ -1,6 +1,7 @@
-# Sublime Text 3 plugin: Clipboard History (forked from https://github.com/kemayo/sublime-text-2-clipboard-history)
+# Sublime Text 3 plugin: Clipboard History 
 
 Keep a history of your clipboard items. Let you paste them back in, as needed.
+This project was forked from https://github.com/kemayo/sublime-text-2-clipboard-history
 
 ## Using
 
