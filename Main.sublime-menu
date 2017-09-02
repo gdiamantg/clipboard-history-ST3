@@ -22,7 +22,7 @@
                             },
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/User/Clipboard History.sublime-settings"},
+                                "args": {"file": "${packages}/User/ClipboardHistory.sublime-settings"},
                                 "caption": "Settings – User"
                             },
                             { "caption": "-" },
