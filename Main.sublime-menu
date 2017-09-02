@@ -17,7 +17,7 @@
                         [
                             {
                                 "command": "open_file",
-                                "args": {"file": "${packages}/Clipboard History/ClipboardHistory.sublime-settings"},
+                                "args": {"file": "${packages}/ClipboardHistory/ClipboardHistory.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
@@ -29,7 +29,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Clipboard History/Default (Windows).sublime-keymap",
+                                    "file": "${packages}/ClipboardHistory/Default (Windows).sublime-keymap",
                                     "platform": "Windows"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -37,7 +37,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Clipboard History/Default (OSX).sublime-keymap",
+                                    "file": "${packages}/ClipboardHistory/Default (OSX).sublime-keymap",
                                     "platform": "OSX"
                                 },
                                 "caption": "Key Bindings – Default"
@@ -45,7 +45,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/Clipboard History/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/ClipboardHistory/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings – Default"
