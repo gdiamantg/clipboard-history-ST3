@@ -1,4 +1,4 @@
-# Sublime Text 2 plugin: Clipboard History
+# Sublime Text 3 plugin: Clipboard History (forked from https://github.com/kemayo/sublime-text-2-clipboard-history)
 
 Keep a history of your clipboard items. Let you paste them back in, as needed.
 
@@ -35,18 +35,18 @@ First, you need to have `git` installed and in your `$PATH`. Afterwards you may 
 
 ### OSX
 
-    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-    $ git clone git://github.com/kemayo/sublime-text-2-clipboard-history.git ClipboardHistory
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+    $ git clone git://github.com/gdiamantg/sublime-text-3-clipboard-history.git ClipboardHistory
 
 ### Linux (Ubuntu like distros)
 
-    $ cd ~/.config/sublime-text-2/Packages/
-    $ git clone git://github.com/kemayo/sublime-text-2-clipboard-history.git ClipboardHistory
+    $ cd ~/.config/sublime-text-3/Packages/
+    $ git clone git://github.com/gdiamantg/sublime-text-3-clipboard-history.git ClipboardHistory
 
 ### Windows 7:
 
-    Copy the directory to: "C:\Users\<username>\AppData\Roaming\Sublime Text 2\Packages"
+    Copy the directory to: "C:\Users\<username>\AppData\Roaming\Sublime Text 3\Packages"
 
 ### Windows XP:
 
-    Copy the directory to: "C:\Documents and Settings\<username>\Application Data\Sublime Text 2\Packages"
+    Copy the directory to: "C:\Documents and Settings\<username>\Application Data\Sublime Text 3\Packages"

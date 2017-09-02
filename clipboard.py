@@ -41,7 +41,7 @@ class ClipboardDisplayCommand(sublime_plugin.TextCommand):
 
 class ClipboardClearHistoryCommand(sublime_plugin.TextCommand):
     def run(self, edit):
-        for i in xrange(len(history) - 1):
+        while len(history) > 0:
             history.pop()
 
 class ClipboardPastePreviousCommand(sublime_plugin.TextCommand):
@@ -94,7 +94,7 @@ class ClipboardListner(sublime_plugin.EventListener):
 
         s = sublime.load_settings("ClipboardHistory.sublime-settings")
         if s.get("limit") < len(history):
-            for i in xrange(len(history) - s.get("limit")):
+            for i in range(len(history) - s.get("limit")):
                 history.pop()
 
         return None
