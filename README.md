@@ -32,7 +32,7 @@ Pasting from the history may not play nicely with multiple selections.
 
 ## Installing
 
-First, you need to have `git` installed and in your `$PATH`. Afterwards you may need to restart Sublime Text 2 before the plugin will work.
+First, you need to have `git` installed and in your `$PATH`. Afterwards you may need to restart Sublime Text 3 before the plugin will work.
 
 ### OSX
 
