@@ -37,12 +37,12 @@ First, you need to have `git` installed and in your `$PATH`. Afterwards you may 
 ### OSX
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-    $ git clone git://github.com/gdiamantg/sublime-text-3-clipboard-history.git "Clipboard History"
+    $ git clone git://github.com/gdiamantg/clipboard-history-ST3.git "Clipboard History"
 
 ### Linux (Ubuntu like distros)
 
     $ cd ~/.config/sublime-text-3/Packages/
-    $ git clone git://github.com/gdiamantg/sublime-text-3-clipboard-history.git "Clipboard History"
+    $ git clone git://github.com/gdiamantg/clipboard-history-ST3.git "Clipboard History"
 
 ### Windows 7:
 
